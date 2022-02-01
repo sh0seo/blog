@@ -36,6 +36,6 @@ jobs:
     - name: Hexo Clean
       run: hexo clean
     - name: Hexo Generate
-      run: hexo g
+      run: hexo generate
     - name: Hexo Deploy
-      run: hexo d
+      run: hexo deploy
