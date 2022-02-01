@@ -99,7 +99,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: cactus
 theme_config:
-  colorscheme: classic
+  colorscheme: white
 
 # nav
 nav:
@@ -108,7 +108,7 @@ nav:
   projects: https://github.com/sh0seo/
 
 copyright:
-  start_year: 2021
+  start_year: 2022
   end_year:
 
 # Deployment
